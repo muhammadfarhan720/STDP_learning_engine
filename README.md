@@ -2,4 +2,4 @@
 
 This circuit is the component that implements brain-inspired on-chip STDP learning in AI accelerators.
 
-> 🛠️ This design was collaboratively developed by [Muhammad Farhan](https://github.com/muhammadfarhan720) and [Aaryan Dhawan](https://github.com/aaryanvdhawan).
+> 🛠️ This design was collaboratively developed by [Muhammad Farhan Azmine](https://github.com/muhammadfarhan720) and [Aaryan Dhawan](https://github.com/aaryanvdhawan).
