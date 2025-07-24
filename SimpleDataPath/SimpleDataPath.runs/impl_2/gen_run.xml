@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_2" LaunchPart="xc7z020clg484-1" LaunchTime="1751133509">
+  <File Type="ROUTE-PWR" Name="OptimizedLearningEngine_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="BasicLearningEngine.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="OptimizedLearningEngine_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="BasicLearningEngine_reports.tcl"/>
+  <File Type="BITSTR-MSK" Name="BasicLearningEngine.msk"/>
+  <File Type="ROUTE-CLK" Name="OptimizedLearningEngine_clock_utilization_routed.rpt"/>
+  <File Type="RDI-RDI" Name="BasicLearningEngine.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="OptimizedLearningEngine_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="BasicLearningEngine.bit"/>
+  <File Type="BG-DRC" Name="BasicLearningEngine.drc"/>
+  <File Type="BG-BGN" Name="BasicLearningEngine.bgn"/>
+  <File Type="BG-BIN" Name="BasicLearningEngine.bin"/>
+  <File Type="BITSTR-RBT" Name="BasicLearningEngine.rbt"/>
+  <File Type="BITSTR-NKY" Name="BasicLearningEngine.nky"/>
+  <File Type="BITSTR-BMM" Name="BasicLearningEngine_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="BasicLearningEngine.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="OptimizedLearningEngine_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-SYSDEF" Name="BasicLearningEngine.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="OptimizedLearningEngine_methodology_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="BasicLearningEngine.ltx"/>
+  <File Type="BOOT-PDI-FILE" Name="BasicLearningEngine_boot.pdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="NPI_FILE" Name="BasicLearningEngine.npi"/>
+  <File Type="OPT-DRC" Name="OptimizedLearningEngine_drc_opted.rpt"/>
+  <File Type="RBD_FILE" Name="BasicLearningEngine.rbd"/>
+  <File Type="OPT-HWDEF" Name="BasicLearningEngine.hwdef"/>
+  <File Type="PLACE-IO" Name="OptimizedLearningEngine_io_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="OptimizedLearningEngine_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="OptimizedLearningEngine_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="OptimizedLearningEngine_control_sets_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="BasicLearningEngine_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-DRC" Name="OptimizedLearningEngine_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="OptimizedLearningEngine_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="OptimizedLearningEngine_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="OptimizedLearningEngine_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="OptimizedLearningEngine_route_status.pb"/>
+  <File Type="ROUTE-DCP" Name="BasicLearningEngine_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="BasicLearningEngine_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="BasicLearningEngine_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="OptimizedLearningEngine_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="BasicLearningEngine_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="OptimizedLearningEngine_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="OptimizedLearningEngine_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="OptimizedLearningEngine_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="OptimizedLearningEngine_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="OptimizedLearningEngine_bus_skew_routed.rpx"/>
+  <File Type="OPT-DCP" Name="BasicLearningEngine_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="BasicLearningEngine_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="BasicLearningEngine_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="BasicLearningEngine_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="BasicLearningEngine_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="BasicLearningEngine_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="BasicLearningEngine_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="OptimizedLearningEngine_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="OptimizedLearningEngine_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="OptimizedLearningEngine_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="OptimizedLearningEngine_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="OptimizedLearningEngine_bus_skew_postroute_physopted.rpx"/>
+  <File Type="ROUTE-DRC-RPX" Name="OptimizedLearningEngine_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="OptimizedLearningEngine_methodology_drc_routed.rpx"/>
+  <File Type="PDI-FILE" Name="BasicLearningEngine.pdi"/>
+  <File Type="PL-PDI-FILE" Name="BasicLearningEngine_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="BasicLearningEngine.rcfi"/>
+  <File Type="CFI_FILE" Name="BasicLearningEngine.cfi"/>
+  <File Type="RNPI_FILE" Name="BasicLearningEngine.rnpi"/>
+  <File Type="ROUTE-RQS" Name="BasicLearningEngine_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="BasicLearningEngine_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/TTFS_LSM/16_1Mux.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Desktop/TTFS_LSM/16_1Mux.sv"/>
+        <Attr Name="ImportTime" Val="1750107552"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/TTFS_LSM/CounterSync.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Desktop/TTFS_LSM/CounterSync.sv"/>
+        <Attr Name="ImportTime" Val="1753117576"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/TTFS_LSM/DualPort_RTW_RAM.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Desktop/TTFS_LSM/DualPort_RTW_RAM.sv"/>
+        <Attr Name="ImportTime" Val="1752166994"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/TTFS_LSM/NBitSIPOShift_reg.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Desktop/TTFS_LSM/NBitSIPOShift_reg.sv"/>
+        <Attr Name="ImportTime" Val="1752690494"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/TTFS_LSM/basic_encoder.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Desktop/TTFS_LSM/basic_encoder.sv"/>
+        <Attr Name="ImportTime" Val="1751133410"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/TTFS_LSM/BasicDataPath.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Desktop/TTFS_LSM/BasicDataPath.sv"/>
+        <Attr Name="ImportTime" Val="1751921085"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/TTFS_LSM/PotDepLUT.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Desktop/TTFS_LSM/PotDepLUT.sv"/>
+        <Attr Name="ImportTime" Val="1751910010"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/TTFS_LSM/TimingDifferencePriorityEncoder.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Desktop/TTFS_LSM/TimingDifferencePriorityEncoder.sv"/>
+        <Attr Name="ImportTime" Val="1750709511"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/TTFS_LSM/WeightAdder.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Desktop/TTFS_LSM/WeightAdder.sv"/>
+        <Attr Name="ImportTime" Val="1752086821"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/TTFS_LSM/SimpleDataPath.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Desktop/TTFS_LSM/SimpleDataPath.sv"/>
+        <Attr Name="ImportTime" Val="1752166983"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/TTFS_LSM/init.mem">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Desktop/TTFS_LSM/init.mem"/>
+        <Attr Name="ImportTime" Val="1750102495"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/TTFS_LSM/DualPort_RTW_RAM_test.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Desktop/TTFS_LSM/DualPort_RTW_RAM_test.sv"/>
+        <Attr Name="ImportTime" Val="1752162046"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="BasicLearningEngine"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/clockgen.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Desktop/Vivado_Directory_Local/SimpleDataPath/SimpleDataPath.srcs/constrs_1/new/clockgen.xdc"/>
+        <Attr Name="ImportTime" Val="1750440809"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/SimpleDatapath_Top.dcp">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Desktop/Vivado_Directory_Local/SimpleDataPath/SimpleDataPath.srcs/utils_1/imports/synth_1/SimpleDatapath_Top.dcp"/>
+        <Attr Name="ImportTime" Val="1752167026"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/utils_1/imports/synth_2/BasicLearningEngine.dcp">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Desktop/Vivado_Directory_Local/SimpleDataPath/SimpleDataPath.srcs/utils_1/imports/synth_2/BasicLearningEngine.dcp"/>
+        <Attr Name="ImportTime" Val="1751133508"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_2"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>

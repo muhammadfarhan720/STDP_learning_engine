@@ -1,0 +1,41 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/aarya/Desktop/Vivado_Directory_Local/SimpleDataPath/SimpleDataPath.sim/sim_1/synth/func/xsim/SimpleDataPath_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CounterSync
+INFO: [VRFC 10-311] analyzing module DualPort_RTW_RAM
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_0
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_1
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_10
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_11
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_12
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_13
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_14
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_15
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_2
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_3
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_4
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_5
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_6
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_7
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_8
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_9
+INFO: [VRFC 10-311] analyzing module OptimizedLearningEngine
+INFO: [VRFC 10-311] analyzing module TimingDifferencePriorityEncoder
+INFO: [VRFC 10-311] analyzing module WeightAdder
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aarya/Desktop/TTFS_LSM/16_1Mux.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SixTeenToOne_Mux
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aarya/Desktop/TTFS_LSM/CounterSync.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CounterSync
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'CounterSync' [C:/Users/aarya/Desktop/TTFS_LSM/CounterSync.sv:2]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aarya/Desktop/TTFS_LSM/DualPort_RTW_RAM_test.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DualPort_RTW_RAM_test
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aarya/Desktop/TTFS_LSM/PotDepLUT.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PotDepLUT
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aarya/Desktop/TTFS_LSM/TimingDifferencePriorityEncoder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TimingDifferencePriorityEncoder
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'TimingDifferencePriorityEncoder' [C:/Users/aarya/Desktop/TTFS_LSM/TimingDifferencePriorityEncoder.sv:1]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aarya/Desktop/TTFS_LSM/WeightAdder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module WeightAdder
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'WeightAdder' [C:/Users/aarya/Desktop/TTFS_LSM/WeightAdder.sv:1]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SimpleDataPath_tb

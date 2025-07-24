@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/aarya/Desktop/Vivado_Directory_Local/SimpleDataPath/SimpleDataPath.sim/sim_1/impl/func/xsim/SimpleDataPath_tb_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CounterSync
+INFO: [VRFC 10-311] analyzing module DualPort_RTW_RAM
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_0
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_1
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_10
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_11
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_12
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_13
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_14
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_15
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_2
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_3
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_4
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_5
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_6
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_7
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_8
+INFO: [VRFC 10-311] analyzing module NBitSIPOShift_reg_9
+INFO: [VRFC 10-311] analyzing module OptimizedLearningEngine
+INFO: [VRFC 10-311] analyzing module TimingDifferencePriorityEncoder
+INFO: [VRFC 10-311] analyzing module WeightAdder
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2.2 (64-bit)
+# SW Build 4126759 on Thu Feb  8 23:53:51 MST 2024
+# IP Build 4126054 on Fri Feb  9 11:39:09 MST 2024
+# SharedData Build 4115275 on Tue Jan 30 00:40:57 MST 2024
+# Start of session at: Thu Jul 10 13:04:41 2025
+# Process ID: 17580
+# Current directory: C:/Users/aarya/Desktop/Vivado_Directory_Local/SimpleDataPath/SimpleDataPath.runs/impl_1
+# Command line: vivado.exe -log OptimizedLearningEngine.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source OptimizedLearningEngine.tcl -notrace
+# Log file: C:/Users/aarya/Desktop/Vivado_Directory_Local/SimpleDataPath/SimpleDataPath.runs/impl_1/OptimizedLearningEngine.vdi
+# Journal file: C:/Users/aarya/Desktop/Vivado_Directory_Local/SimpleDataPath/SimpleDataPath.runs/impl_1\vivado.jou
+# Running On: AMR23, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 8, Host memory: 34213 MB
+#-----------------------------------------------------------
+source OptimizedLearningEngine.tcl -notrace

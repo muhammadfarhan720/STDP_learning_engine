@@ -1,0 +1,84 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2.2 (win64) Build 4126759 Thu Feb  8 23:53:51 MST 2024
+| Date         : Sat Jun 28 14:00:07 2025
+| Host         : AMR23 running 64-bit major release  (build 9200)
+| Command      : report_control_sets -verbose -file BasicLearningEngine_control_sets_placed.rpt
+| Design       : BasicLearningEngine
+| Device       : xc7z020
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Histogram
+3. Flip-Flop Distribution
+4. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Total control sets                                       |     6 |
+|    Minimum number of control sets                        |     6 |
+|    Addition due to synthesis replication                 |     0 |
+|    Addition due to physical synthesis replication        |     0 |
+| Unused register locations in slices containing registers |    25 |
++----------------------------------------------------------+-------+
+* Control sets can be merged at opt_design using control_set_merge or merge_equivalent_drivers
+** Run report_qor_suggestions for automated merging and remapping suggestions
+
+
+2. Histogram
+------------
+
++--------------------+-------+
+|       Fanout       | Count |
++--------------------+-------+
+| Total control sets |     6 |
+| >= 0 to < 4        |     1 |
+| >= 4 to < 6        |     0 |
+| >= 6 to < 8        |     0 |
+| >= 8 to < 10       |     1 |
+| >= 10 to < 12      |     0 |
+| >= 12 to < 14      |     0 |
+| >= 14 to < 16      |     0 |
+| >= 16              |     4 |
++--------------------+-------+
+* Control sets can be remapped at either synth_design or opt_design
+
+
+3. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |               1 |            1 |
+| No           | No                    | Yes                    |               0 |            0 |
+| No           | Yes                   | No                     |              49 |           24 |
+| Yes          | No                    | No                     |               0 |            0 |
+| Yes          | No                    | Yes                    |               0 |            0 |
+| Yes          | Yes                   | No                     |             301 |           63 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+4. Detailed Control Set Information
+-----------------------------------
+
++----------------+---------------------------------------+------------------+------------------+----------------+--------------+
+|  Clock Signal  |             Enable Signal             | Set/Reset Signal | Slice Load Count | Bel Load Count | Bels / Slice |
++----------------+---------------------------------------+------------------+------------------+----------------+--------------+
+|  clk_IBUF_BUFG |                                       |                  |                1 |              1 |         1.00 |
+|  clk_IBUF_BUFG | enable_IBUF                           | rst_IBUF         |                2 |              9 |         4.50 |
+|  clk_IBUF_BUFG | counter_sync/main_counter_reg[2]_0[0] | rst_IBUF         |                4 |             20 |         5.00 |
+|  clk_IBUF_BUFG | RAM/mem_reg_0_15_0_5_i_1_n_0          |                  |                4 |             28 |         7.00 |
+|  clk_IBUF_BUFG |                                       | rst_IBUF         |               24 |             49 |         2.04 |
+|  clk_IBUF_BUFG | counter_sync/E[0]                     | rst_IBUF         |               57 |            272 |         4.77 |
++----------------+---------------------------------------+------------------+------------------+----------------+--------------+
+
+

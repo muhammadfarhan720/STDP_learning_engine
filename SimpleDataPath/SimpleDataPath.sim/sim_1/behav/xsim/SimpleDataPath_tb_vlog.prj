@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../../TTFS_LSM/16_1Mux.sv" \
+"../../../../../../TTFS_LSM/CounterSync.sv" \
+"../../../../../../TTFS_LSM/DualPort_RTW_RAM_test.sv" \
+"../../../../../../TTFS_LSM/PotDepLUT.sv" \
+"../../../../../../TTFS_LSM/TimingDifferencePriorityEncoder.sv" \
+"../../../../../../TTFS_LSM/WeightAdder.sv" \
+"../../../../../../TTFS_LSM/SimpleDatapath_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

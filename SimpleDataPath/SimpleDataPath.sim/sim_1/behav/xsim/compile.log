@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aarya/Desktop/TTFS_LSM/16_1Mux.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SixTeenToOne_Mux
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aarya/Desktop/TTFS_LSM/CounterSync.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CounterSync
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aarya/Desktop/TTFS_LSM/DualPort_RTW_RAM_test.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DualPort_RTW_RAM_test
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aarya/Desktop/TTFS_LSM/PotDepLUT.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PotDepLUT
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aarya/Desktop/TTFS_LSM/TimingDifferencePriorityEncoder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TimingDifferencePriorityEncoder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aarya/Desktop/TTFS_LSM/WeightAdder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module WeightAdder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SimpleDataPath_tb

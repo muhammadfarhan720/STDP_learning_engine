@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Tue Jul 22 12:33:53 2025
+# Process ID: 8076
+# Current directory: C:/Users/azmin/Downloads/STDPLearningEngine.xpr/SimpleDataPath
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent31088 C:\Users\azmin\Downloads\STDPLearningEngine.xpr\SimpleDataPath\SimpleDataPath.xpr
+# Log file: C:/Users/azmin/Downloads/STDPLearningEngine.xpr/SimpleDataPath/vivado.log
+# Journal file: C:/Users/azmin/Downloads/STDPLearningEngine.xpr/SimpleDataPath\vivado.jou
+#-----------------------------------------------------------
+start_gui

@@ -1,0 +1,25 @@
+Vivado Simulator v2023.2.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L secureip --snapshot SimpleDataPath_tb_func_impl xil_defaultlib.SimpleDataPath_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+ERROR: [VRFC 10-3180] cannot find port 'counter2' on this module [C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv:36]
+ERROR: [VRFC 10-3180] cannot find port 'counter1' on this module [C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv:35]
+ERROR: [VRFC 10-3180] cannot find port 'main_counter' on this module [C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv:34]
+ERROR: [VRFC 10-3180] cannot find port 'enable' on this module [C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv:33]
+ERROR: [VRFC 10-3180] cannot find port 'rst' on this module [C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv:32]
+ERROR: [VRFC 10-3180] cannot find port 'clk' on this module [C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv:31]
+ERROR: [VRFC 10-3180] cannot find port 'TimingDifference' on this module [C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv:60]
+ERROR: [VRFC 10-3180] cannot find port 'PreSynapticNeuron' on this module [C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv:59]
+ERROR: [VRFC 10-3180] cannot find port 'PostSynapticNeuron' on this module [C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv:58]
+ERROR: [VRFC 10-3180] cannot find port 'rst' on this module [C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv:57]
+ERROR: [VRFC 10-3180] cannot find port 'clk' on this module [C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv:56]
+ERROR: [VRFC 10-3180] cannot find port 'NewW' on this module [C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv:73]
+ERROR: [VRFC 10-3180] cannot find port 'CurrentW' on this module [C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv:72]
+ERROR: [VRFC 10-3180] cannot find port 'SignedFlag' on this module [C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv:71]
+ERROR: [VRFC 10-3180] cannot find port 'DeltaW' on this module [C:/Users/aarya/Desktop/TTFS_LSM/SimpleDatapath_tb.sv:70]
+ERROR: [VRFC 10-8530] module 'DualPort_RTW_RAM_test(DATA_WIDTH=18,INIT_FILE="init.mem")' is ignored due to previous errors [C:/Users/aarya/Desktop/TTFS_LSM/DualPort_RTW_RAM_test.sv:1]
+ERROR: [VRFC 10-8530] module 'FDRE_default' is ignored due to previous errors [/wrk/ci/prod/2023.2.2/rdi_builds/continuous/2024_02_08_4126759/data/verilog/src/unisims/FDRE.v:27]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

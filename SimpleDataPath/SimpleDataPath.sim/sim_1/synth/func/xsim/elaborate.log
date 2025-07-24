@@ -1,0 +1,22 @@
+Vivado Simulator v2023.2.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L secureip --snapshot SimpleDataPath_tb_func_synth xil_defaultlib.SimpleDataPath_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/aarya/Desktop/TTFS_LSM/16_1Mux.sv" Line 1. Module SixTeenToOne_Mux doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/aarya/Desktop/TTFS_LSM/16_1Mux.sv" Line 1. Module SixTeenToOne_Mux doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.CounterSync
+Compiling module xil_defaultlib.DualPort_RTW_RAM_test(DATA_WIDTH...
+Compiling module xil_defaultlib.TimingDifferencePriorityEncoder
+Compiling module xil_defaultlib.PotDepLUT
+Compiling module xil_defaultlib.WeightAdder
+Compiling module xil_defaultlib.SixTeenToOne_Mux
+Compiling module xil_defaultlib.SimpleDataPath_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot SimpleDataPath_tb_func_synth
